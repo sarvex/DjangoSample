@@ -1,2 +1,2 @@
 # DjangoSample
-Django Sample App
+Django Sample App from the book Learning Django Web Development
